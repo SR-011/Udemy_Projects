@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Motivate Me</string>
+    <string name="cont_desc" translatable="false">a simple message icon</string>
+    <string name="ph_message" translatable="false">say hello!</string>
+    <string name="hint_name" translatable="false">Enter your name</string>
+    <string name="bt_text" translatable="false">Update</string>
+</resources>
